@@ -1,0 +1,111 @@
+/* CSS Styles for Tribute to Netaji Subhas Chandra Bose */
+
+/* Global Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+}
+
+/* Container Styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Tribute Image Styles */
+.tribute-img {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.tribute-img img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Content Section Styles */
+.content {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.content h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #34495e;
+}
+
+.content p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #7f8c8d;
+}
+
+/* Quote Styles */
+.quote {
+    background-color: #ecf0f1;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 5px solid #2c3e50;
+    font-size: 1.5em;
+    color: #34495e;
+}
+
+/* Timeline Styles */
+.timeline {
+    list-style-type: none;
+    padding: 0;
+}
+
+.timeline li {
+    padding: 10px;
+    background-color: #ffffff;
+    margin: 10px 0;
+    border-left: 5px solid #2c3e50;
+}
+
+.timeline h3 {
+    font-size: 1.5em;
+    color: #2980b9;
+}
+
+.timeline p {
+    margin: 5px 0 0;
+    font-size: 1.1em;
+    color: #7f8c8d;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1em;
+}
